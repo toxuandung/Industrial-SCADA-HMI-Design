@@ -3,5 +3,5 @@ Industrial-SCADA-HMI-Design
 
 
 <p align="center">
-    <img width=50% src="Images/Screenshot.png"
+    <img width=100% src="Images/Screenshot.png"
 </p>
